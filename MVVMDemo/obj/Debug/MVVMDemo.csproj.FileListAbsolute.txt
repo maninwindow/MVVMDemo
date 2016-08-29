@@ -1,0 +1,16 @@
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\Views\StudentView.g.cs
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\App.g.cs
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.cache
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.lref
+D:\ASP.NET\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.exe.config
+D:\ASP.NET\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.exe
+D:\ASP.NET\MVVMDemo\MVVMDemo\bin\Debug\MVVMDemo.pdb
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MainWindow.g.cs
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MainWindow.baml
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\Views\StudentView.baml
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.g.resources
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.Properties.Resources.resources
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.csproj.GenerateResource.Cache
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.exe
+D:\ASP.NET\MVVMDemo\MVVMDemo\obj\Debug\MVVMDemo.pdb
